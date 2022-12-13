@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MA8gccc3fv6r9JpKC57YEa281IBGZSZAzwjGwI9M25SIyfYrM12yAOHu7A351/47wEi/3FqRE1L315Ea8SI4Mw==",
+  "success": true,
+  "projectFilePath": "C:\\CWCProjects\\Team_Proves\\Cycle-Prove\\Cycle-Prove.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
